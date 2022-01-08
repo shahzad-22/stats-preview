@@ -1,0 +1,98 @@
+body{
+
+    background-color: #EAEAEA;
+    
+}
+.container{ 
+    background-color:hsl(233, 47%, 7%);
+    align-self: center;
+    margin: 5% 5% ;
+    height: 795px;
+    color: white;
+}
+.spaceblock{
+    width: 100%;
+    height: 30px;
+}
+.card{
+    background-color:#1C1938;
+    height: 446px;
+    margin: 10% 5% ;
+    color: white;
+    border-radius: 15px;
+}
+.textbox{
+    position:absolute;
+    background-color:#1C1938;
+    width: 40%;
+    height: 447px;
+}
+ h1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+    padding: 5%;
+ }
+  a{
+      color: #9F56CD;
+  }
+   p{
+    color:#9F9EB7;
+    padding-left: 103px;
+    font-family: sans-serif;
+    font-size: 15px;
+    justify-content: space-between;
+    line-height: 1.6;
+}
+.imgbox{
+    position:absolute;right: 10%;
+    background-color: #1C1938;
+    width: 40%;
+    height: 341px;
+}
+.figures{
+    margin-top:40px;
+}
+.companies{
+    display: flex;
+    margin-left: 71px;
+    width: 20%;
+    position:absolute ;left: 5%;
+}
+.companies h1{
+    font-size: 30px;
+} 
+ 
+ .companies a{
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #9F9EB7;
+}
+.templates{
+    display: inline;
+    width: 20%;
+    position: absolute;left: 40%;
+}
+.templates h1{
+    font-size: 30px;
+} 
+ .templates a{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #9F9EB7;
+}
+.quires{
+    margin-right: 77px; 
+    width: 20%;
+    position: absolute;right: 5%;
+} 
+.quires h1{
+    font-size: 30px;
+} 
+  .quires a{
+      font-family: sans-serif;
+    font-size: 10px;
+    color: #9F9EB7;
+}
